@@ -19,7 +19,7 @@ import (
     "image"
     "strconv"
     "time"
-    "github.com/usual2970/xinli321/config"
+    "github.com/usual2970/xinli321_spider/config"
 )
 
 type PipelineMysql struct {
