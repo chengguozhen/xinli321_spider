@@ -7,7 +7,7 @@ package main
 
 import (
     "github.com/hu17889/go_spider/core/common/page"
-    "github.com/usual2970/xinli321/xinli001/pipeline"
+    "github.com/usual2970/xinli321_spider/xinli001/pipeline"
     "github.com/hu17889/go_spider/core/spider"
     "github.com/PuerkitoBio/goquery"
     "github.com/hu17889/go_spider/core/common/request"
